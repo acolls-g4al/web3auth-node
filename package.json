@@ -1,0 +1,15 @@
+{
+  "name": "web3auth-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:acolls-g4al/web3auth-node.git",
+  "author": "<acolls@g4al.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.1.3",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
